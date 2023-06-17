@@ -1,6 +1,6 @@
 # testproject
 
-A new Flutter project.
+Flutter App, Shows quotes, Has delete feature
 
 ## Getting Started
 
